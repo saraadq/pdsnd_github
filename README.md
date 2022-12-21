@@ -10,8 +10,8 @@ GitHub Project
 How to use GitHub and Upload the Python project to it 
 
 ### Files used
-Include the files used
+.gitignore and readme for now 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://sa.linkedin.com/in/dr-mejdal-alqahtani-%D8%AF-%D9%85%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A-18171b42?trk=public_post_share-update_actor-text
 
