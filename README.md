@@ -7,7 +7,7 @@ Today is 21-12-2022
 GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+How to use GitHub and Upload the Python project to it 
 
 ### Files used
 Include the files used
