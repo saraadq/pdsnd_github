@@ -119,6 +119,14 @@ def station_stats(df):
     print( "\nThis took %s seconds." % (time.time() - start_time) )
     print( '=' * 100 )
 
+def printName():
+    print("Sarah Alqahtani")
+    
+def printShortName
+    print ('Sarah Alqahtani")
+           
+def word():
+    print("i love Udacity Programm")
 
 
 def trip_duration_stats(df):
